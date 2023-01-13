@@ -25,7 +25,9 @@ This tool uses the following libraries:
 
 If you want to export the code as .EXE you can use PyInstaller.
 
+Observation. 
 
+This is not the final code, a bunch of adjustment is necessary and some bugs need to be fixed as well.
 
 Enjoy.
 
